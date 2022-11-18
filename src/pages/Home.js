@@ -3,7 +3,7 @@ import axios from "axios";
 import HomeSingleData from "./HomeSingleData";
 import HomeMainData from "./HomeMainData";
 import Table from "react-bootstrap/Table";
-import Historicos from "./Historicos";
+
 
 const Home = () => {
   const [data, setData] = useState([]);
