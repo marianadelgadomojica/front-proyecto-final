@@ -17,7 +17,7 @@ const HomeMainData = ({ props }) => {
                     </Button>
                 </div>
                 <div>
-                        <Button> title="HISTORICOS"</Button>
+                        <Button> HISTORICOS </Button>
                         
                         
                 </div>
